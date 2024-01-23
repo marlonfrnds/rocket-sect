@@ -1,2 +1,3 @@
-# rocket-sect
-Desafio 02
+# Rocket.sect
+
+![rocket-sect](./images/preview.png)
